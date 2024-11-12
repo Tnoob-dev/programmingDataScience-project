@@ -1,121 +1,134 @@
 {
     "data": [
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d20172909-Reviews-Ricardon-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Ricardon",
-            "ubication": "Industria 352 Esquina San Rafael, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Mediterr\u00e1nea",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3730557-Reviews-Los_Mercaderes-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Los Mercaderes",
-            "ubication": "207 Calle Mercaderes, La Habana 10100 Cuba",
-            "food_type": [
-                "Italiana",
-                "Fusi\u00f3n",
-                "Saludable"
-            ]
-        },
-        {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12152688-Reviews-Mojito_Mojito-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Mojito-Mojito",
             "ubication": "Muralla # 166 Entre Cuba Y San Ignacio, La Habana 10100 Cuba",
+            "phone_number": "+53 7 8018187",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Bar",
                 "Cubana",
                 "Centroamericana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 1142,
+                "Muy Bueno": 115,
+                "Normal": 38,
+                "Malo": 13,
+                "Pesimo": 15,
+                "total": 1323
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d942067-Reviews-La_Bodeguita_del_Medio-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Bodeguita del Medio",
-            "ubication": "Empedrado, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2042638-Reviews-San_Cristobal_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "San Cristobal Paladar",
+            "ubication": "San Rafael No 469 E/ Lealtad y Campanario, La Habana Cuba",
+            "phone_number": "+53 7 8601705",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
-                "Bar",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d9747740-Reviews-Restaurante_Habana_Blues-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Habana Blues",
-            "ubication": "Calle H No 405 e/ 17 y 19, Vedado, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13322786-Reviews-Marea-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Marea",
-            "ubication": "5TA Ave Suite 25804, La Habana 10400 Cuba",
-            "food_type": [
-                "Bar",
                 "Marisco",
+                "Espa\u00f1ola",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 1428,
+                "Muy Bueno": 358,
+                "Normal": 95,
+                "Malo": 50,
+                "Pesimo": 36,
+                "total": 1967
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d9747740-Reviews-Restaurante_Habana_Blues-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Habana Blues",
-            "ubication": "Calle H No 405 e/ 17 y 19, Vedado, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d18998617-Reviews-Restaurante_La_Bella_Cubana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Restaurante La Bella Cubana",
+            "ubication": "Avenida 3A E/ 76 Y 80 Hotel Meli\u00e1 Habana, La Habana Cuba",
+            "phone_number": "+53 7 2048500",
             "food_type": [
+                "Japonesa",
                 "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
+                "Asi\u00e1tica",
+                "Saludable",
+                "Cubana",
+                "Fusi\u00f3n japonesa"
+            ],
+            "rating": {
+                "Excelente": 26,
+                "Muy Bueno": 0,
+                "Normal": 0,
+                "Malo": 0,
+                "Pesimo": 0,
+                "total": 26
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24934247-Reviews-Sibarita_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sibarita Habana",
-            "ubication": "Oreilly 528 Next to Harrys Brother Store, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d17752554-Reviews-Floridita-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Floridita",
+            "ubication": "Avenida Belgica, La Habana Cuba",
+            "phone_number": "+53 7 8671300",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Bar",
-                "Internacional",
-                "Mediterr\u00e1nea",
                 "Cubana",
                 "Centroamericana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 38,
+                "Muy Bueno": 37,
+                "Normal": 14,
+                "Malo": 11,
+                "Pesimo": 5,
+                "total": 105
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d11871944-Reviews-Restaurant_Van_Van-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurant Van Van",
-            "ubication": "58 San Juan de Dios e/ Habana y Compostela, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d14150849-Reviews-Dona_Alicia-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Do\u00f1a Alicia",
+            "ubication": "Calle Reina Esquina Belascoa\u00edn, La Habana Cuba",
+            "phone_number": "+53 7 8666009",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
-                "Internacional",
-                "Saludable",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 394,
+                "Muy Bueno": 10,
+                "Normal": 1,
+                "Malo": 3,
+                "Pesimo": 12,
+                "total": 420
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d20172909-Reviews-Ricardon-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Ricardon",
-            "ubication": "Industria 352 Esquina San Rafael, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d19007736-Reviews-El_Bodegon_del_Asado-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "El Bodegon del Asado",
+            "ubication": "24 Nro 418 e/ 23 y 25, La Habana 11400 Cuba",
+            "phone_number": "+53 7 8375201",
             "food_type": [
+                "Restaurante de carne",
                 "Caribe\u00f1a",
                 "Latina",
-                "Mediterr\u00e1nea",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 33,
+                "Muy Bueno": 4,
+                "Normal": 0,
+                "Malo": 4,
+                "Pesimo": 2,
+                "total": 43
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24066255-Reviews-Brasserie_255-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Brasserie 255",
             "ubication": "Juan Delgado 255, La Habana 10500 Cuba",
+            "phone_number": "+53 5 6147642",
             "food_type": [
                 "Francesa",
                 "Caribe\u00f1a",
@@ -124,871 +137,478 @@
                 "Europea",
                 "Saludable",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 141,
+                "Muy Bueno": 5,
+                "Normal": 0,
+                "Malo": 2,
+                "Pesimo": 3,
+                "total": 151
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d7747065-Reviews-El_Dandy-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Dandy",
-            "ubication": "Calle Teniente Rey 401 Plaza de Cristo Old Havana, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1175610-Reviews-Los_Nardos-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Los Nardos",
+            "ubication": "P.\u00ba de Mart\u00ed, La Habana Cuba",
+            "phone_number": "+53 7 8632985",
             "food_type": [
+                "Caribe\u00f1a",
+                "Latina",
+                "Espa\u00f1ola",
+                "Cubana"
+            ],
+            "rating": {
+                "Excelente": 1710,
+                "Muy Bueno": 1164,
+                "Normal": 461,
+                "Malo": 186,
+                "Pesimo": 177,
+                "total": 3698
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1633948-Reviews-Restaurante_El_Guajirito-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Restaurante El Guajirito",
+            "ubication": "Zulueta #658 Entre Gloria y Apodaca, La Habana 10100 Cuba",
+            "phone_number": "+53 5 0945925",
+            "food_type": [
+                "Caribe\u00f1a",
                 "Latina",
                 "Bar",
-                "Caf\u00e9",
+                "Pub",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 448,
+                "Muy Bueno": 391,
+                "Normal": 256,
+                "Malo": 194,
+                "Pesimo": 268,
+                "total": 1557
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d14150849-Reviews-Dona_Alicia-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Do\u00f1a Alicia",
-            "ubication": "Calle Reina Esquina Belascoa\u00edn, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d942067-Reviews-La_Bodeguita_del_Medio-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "La Bodeguita del Medio",
+            "ubication": "Empedrado, La Habana Cuba",
+            "phone_number": "+53 7 8671374",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
-                "Cubana"
-            ]
+                "Bar",
+                "Cubana",
+                "Centroamericana"
+            ],
+            "rating": {
+                "Excelente": 3317,
+                "Muy Bueno": 3142,
+                "Normal": 2445,
+                "Malo": 782,
+                "Pesimo": 377,
+                "total": 10063
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1151869-Reviews-Paladar_Vistamar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Paladar Vistamar",
-            "ubication": "Avenida 1ra No. 2206 e/ 22 y 24 Miramar, Playa, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12954261-Reviews-Jibaro_s-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "J\u00edbaro",
+            "ubication": "Merced 69 e/ San Ignacio y Cuba, La Habana Cuba",
+            "phone_number": "+53 5 2849545",
             "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6168120-Reviews-Habana_61-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Habana 61",
-            "ubication": "Calle Habana No. 61 Between Cuarteles and Pe\u00f1a Pobre Streets, La Habana 10100 Cuba",
-            "food_type": [
-                "Marisco",
-                "Internacional",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12580283-Reviews-Elizalde_Bar_Restaurante-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Elizalde Bar-Restaurante",
-            "ubication": "Empedrado 521 Monserrate y Villegas, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d17378791-Reviews-Sensacioones_Restaurant-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sensacioones Restaurant",
-            "ubication": "Calle 70 #902 e/ 9na y 11, Playa, La Habana 10600 Cuba",
-            "food_type": [
-                "Internacional",
-                "Mediterr\u00e1nea"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d23919406-Reviews-Chachacha-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Chachach\u00e1",
-            "ubication": "Monserrate #159 E/ Tejadillo Y Chac\u00f3n Habana Vieja, La Habana 10100 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6168120-Reviews-Habana_61-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Habana 61",
-            "ubication": "Calle Habana No. 61 Between Cuarteles and Pe\u00f1a Pobre Streets, La Habana 10100 Cuba",
-            "food_type": [
-                "Marisco",
-                "Internacional",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3730557-Reviews-Los_Mercaderes-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Los Mercaderes",
-            "ubication": "207 Calle Mercaderes, La Habana 10100 Cuba",
-            "food_type": [
-                "Italiana",
-                "Fusi\u00f3n",
-                "Saludable"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1965867-Reviews-La_Guarida-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Guarida",
-            "ubication": "Concordia 418 entre Gervasio y Escobar La Habana, La Habana 10700 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13486662-Reviews-Casa_Mia_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Casa Mia Paladar",
-            "ubication": "Calle 1ra #103, entre Calle C y Calle D, La Habana, Cuba 1er piso, La Habana 10400 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Internacional",
                 "Fusi\u00f3n",
                 "Saludable",
+                "Pub restaurante",
                 "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1957747-Reviews-La_Divina_Pastora-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Divina Pastora",
-            "ubication": "Via Monumental Morro Caba\u00f1a, La Habana Cuba",
-            "food_type": [
-                "Latina",
-                "Marisco",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1965867-Reviews-La_Guarida-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Guarida",
-            "ubication": "Concordia 418 entre Gervasio y Escobar La Habana, La Habana 10700 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d5958089-Reviews-El_Cocinero-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Cocinero",
-            "ubication": "Calle 26, Vedado Between Calle 11 and 13, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d14150849-Reviews-Dona_Alicia-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Do\u00f1a Alicia",
-            "ubication": "Calle Reina Esquina Belascoa\u00edn, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6561048-Reviews-Venami-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Venami",
-            "ubication": "Montserrate 435 Between Teniente Rey and Lamparilla, La Habana 10100 Cuba",
-            "food_type": [
-                "Italiana",
-                "Pizza",
-                "Mediterr\u00e1nea",
-                "Europea"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d10344588-Reviews-El_Cafe-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Caf\u00e9",
-            "ubication": "Amargura #358 e/ Aguacate y Villegas, La Habana Cuba",
-            "food_type": [
-                "Caf\u00e9",
-                "Europea",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13155739-Reviews-Restaurante_Beirut-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Beirut",
-            "ubication": "Calle 1ra #237 Apto. A e/ A y B, Vedado, La Habana., La Habana Cuba",
-            "food_type": [
-                "Libanesa",
-                "De Oriente Medio",
-                "\u00c1rabe"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13155739-Reviews-Restaurante_Beirut-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Beirut",
-            "ubication": "Calle 1ra #237 Apto. A e/ A y B, Vedado, La Habana., La Habana Cuba",
-            "food_type": [
-                "Libanesa",
-                "De Oriente Medio",
-                "\u00c1rabe"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1957747-Reviews-La_Divina_Pastora-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Divina Pastora",
-            "ubication": "Via Monumental Morro Caba\u00f1a, La Habana Cuba",
-            "food_type": [
-                "Latina",
-                "Marisco",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6753980-Reviews-Restaurante_Santy_Pescador-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Santy Pescador",
-            "ubication": "240A E/ 3raC y Rio, La Habana Cuba",
-            "food_type": [
-                "Japonesa",
-                "Caribe\u00f1a",
-                "Marisco",
-                "Sushi",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d26339399-Reviews-La_Carreta-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Carreta",
-            "ubication": "Calle 21 esq K Vedado 4jq7+vrg, La Habana 10400 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d26339399-Reviews-La_Carreta-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Carreta",
-            "ubication": "Calle 21 esq K Vedado 4jq7+vrg, La Habana 10400 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 212,
+                "Muy Bueno": 29,
+                "Normal": 10,
+                "Malo": 4,
+                "Pesimo": 0,
+                "total": 255
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12658631-Reviews-La_Esquina_de_Cuba-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "La Esquina de Cuba",
-            "ubication": "Calle Cuba #203 Apt 3,  Esquina Empedrado, La Habana 10100 Cuba",
+            "ubication": "Calle Cuba #203 Apt 3, Esquina Empedrado, La Habana 10100 Cuba",
+            "phone_number": "+53 5 9110994",
             "food_type": [
                 "Caribe\u00f1a",
                 "Internacional",
                 "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d16701931-Reviews-Restaurante_Antojos-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Antojos",
-            "ubication": "Callej\u00f3n Espada e/ Cuarteles y Chac\u00f3n, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d5958089-Reviews-El_Cocinero-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Cocinero",
-            "ubication": "Calle 26, Vedado Between Calle 11 and 13, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d10344588-Reviews-El_Cafe-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Caf\u00e9",
-            "ubication": "Amargura #358 e/ Aguacate y Villegas, La Habana Cuba",
-            "food_type": [
-                "Caf\u00e9",
-                "Europea",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12580283-Reviews-Elizalde_Bar_Restaurante-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Elizalde Bar-Restaurante",
-            "ubication": "Empedrado 521 Monserrate y Villegas, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2042638-Reviews-San_Cristobal_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "San Cristobal Paladar",
-            "ubication": "San Rafael No 469 E/ Lealtad y Campanario, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Espa\u00f1ola",
-                "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 476,
+                "Muy Bueno": 52,
+                "Normal": 12,
+                "Malo": 6,
+                "Pesimo": 9,
+                "total": 555
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13322786-Reviews-Marea-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Marea",
             "ubication": "5TA Ave Suite 25804, La Habana 10400 Cuba",
+            "phone_number": "+53 7 2907692",
             "food_type": [
                 "Bar",
                 "Marisco",
                 "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6753980-Reviews-Restaurante_Santy_Pescador-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Santy Pescador",
-            "ubication": "240A E/ 3raC y Rio, La Habana Cuba",
-            "food_type": [
-                "Japonesa",
-                "Caribe\u00f1a",
-                "Marisco",
-                "Sushi",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1965867-Reviews-La_Guarida-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Guarida",
-            "ubication": "Concordia 418 entre Gervasio y Escobar La Habana, La Habana 10700 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1957747-Reviews-La_Divina_Pastora-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Divina Pastora",
-            "ubication": "Via Monumental Morro Caba\u00f1a, La Habana Cuba",
-            "food_type": [
-                "Latina",
-                "Marisco",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d11871944-Reviews-Restaurant_Van_Van-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurant Van Van",
-            "ubication": "58 San Juan de Dios e/ Habana y Compostela, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12152688-Reviews-Mojito_Mojito-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Mojito-Mojito",
-            "ubication": "Muralla # 166 Entre Cuba Y San Ignacio, La Habana 10100 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24066255-Reviews-Brasserie_255-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Brasserie 255",
-            "ubication": "Juan Delgado 255, La Habana 10500 Cuba",
-            "food_type": [
-                "Francesa",
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Europea",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3730557-Reviews-Los_Mercaderes-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Los Mercaderes",
-            "ubication": "207 Calle Mercaderes, La Habana 10100 Cuba",
-            "food_type": [
-                "Italiana",
-                "Fusi\u00f3n",
-                "Saludable"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13155739-Reviews-Restaurante_Beirut-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Beirut",
-            "ubication": "Calle 1ra #237 Apto. A e/ A y B, Vedado, La Habana., La Habana Cuba",
-            "food_type": [
-                "Libanesa",
-                "De Oriente Medio",
-                "\u00c1rabe"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13486662-Reviews-Casa_Mia_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Casa Mia Paladar",
-            "ubication": "Calle 1ra #103, entre Calle C y Calle D, La Habana, Cuba 1er piso, La Habana 10400 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Internacional",
-                "Fusi\u00f3n",
-                "Saludable",
-                "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 105,
+                "Muy Bueno": 19,
+                "Normal": 5,
+                "Malo": 4,
+                "Pesimo": 15,
+                "total": 148
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1151869-Reviews-Paladar_Vistamar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Paladar Vistamar",
             "ubication": "Avenida 1ra No. 2206 e/ 22 y 24 Miramar, Playa, La Habana Cuba",
+            "phone_number": "+53 7 2038328",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Marisco",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 590,
+                "Muy Bueno": 233,
+                "Normal": 56,
+                "Malo": 25,
+                "Pesimo": 20,
+                "total": 924
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d11871944-Reviews-Restaurant_Van_Van-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Restaurant Van Van",
+            "ubication": "58 San Juan de Dios e/ Habana y Compostela, La Habana Cuba",
+            "phone_number": "+53 7 8602490",
+            "food_type": [
+                "Caribe\u00f1a",
+                "Latina",
+                "Internacional",
+                "Saludable",
+                "Cubana"
+            ],
+            "rating": {
+                "Excelente": 536,
+                "Muy Bueno": 121,
+                "Normal": 34,
+                "Malo": 11,
+                "Pesimo": 8,
+                "total": 710
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d17378791-Reviews-Sensacioones_Restaurant-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Sensacioones Restaurant",
+            "ubication": "Calle 70 #902 e/ 9na y 11, Playa, La Habana 10600 Cuba",
+            "phone_number": "+53 7 2061831",
+            "food_type": [
+                "Internacional",
+                "Mediterr\u00e1nea"
+            ],
+            "rating": {
+                "Excelente": 268,
+                "Muy Bueno": 11,
+                "Normal": 3,
+                "Malo": 2,
+                "Pesimo": 7,
+                "total": 291
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24934247-Reviews-Sibarita_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Sibarita Habana",
+            "ubication": "Oreilly 528 Next to Harrys Brother Store, La Habana Cuba",
+            "phone_number": "+53 5 2670512",
+            "food_type": [
+                "Caribe\u00f1a",
+                "Latina",
+                "Bar",
+                "Internacional",
+                "Mediterr\u00e1nea",
+                "Cubana",
+                "Centroamericana"
+            ],
+            "rating": {
+                "Excelente": 222,
+                "Muy Bueno": 4,
+                "Normal": 1,
+                "Malo": 1,
+                "Pesimo": 6,
+                "total": 234
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1965867-Reviews-La_Guarida-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "La Guarida",
+            "ubication": "Concordia 418 entre Gervasio y Escobar La Habana, La Habana 10700 Cuba",
+            "phone_number": "+53 7 8669047",
+            "food_type": [
+                "Caribe\u00f1a",
+                "Latina",
+                "Internacional",
+                "Cubana"
+            ],
+            "rating": {
+                "Excelente": 3002,
+                "Muy Bueno": 1150,
+                "Normal": 485,
+                "Malo": 156,
+                "Pesimo": 105,
+                "total": 4898
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13486662-Reviews-Casa_Mia_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Casa Mia Paladar",
+            "ubication": "Calle 1ra #103, entre Calle C y Calle D, La Habana, Cuba 1er piso, La Habana 10400 Cuba",
+            "phone_number": "+53 7 8329735",
+            "food_type": [
+                "Caribe\u00f1a",
+                "Latina",
+                "Marisco",
+                "Internacional",
+                "Fusi\u00f3n",
+                "Saludable",
+                "Cubana"
+            ],
+            "rating": {
+                "Excelente": 948,
+                "Muy Bueno": 61,
+                "Normal": 21,
+                "Malo": 6,
+                "Pesimo": 15,
+                "total": 1051
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d10344588-Reviews-El_Cafe-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "El Caf\u00e9",
             "ubication": "Amargura #358 e/ Aguacate y Villegas, La Habana Cuba",
+            "phone_number": "+53 7 8613817",
             "food_type": [
                 "Caf\u00e9",
                 "Europea",
                 "Saludable",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 268,
+                "Muy Bueno": 43,
+                "Normal": 11,
+                "Malo": 7,
+                "Pesimo": 5,
+                "total": 334
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d9747740-Reviews-Restaurante_Habana_Blues-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Habana Blues",
-            "ubication": "Calle H No 405 e/ 17 y 19, Vedado, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3730557-Reviews-Los_Mercaderes-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Los Mercaderes",
+            "ubication": "207 Calle Mercaderes, La Habana 10100 Cuba",
+            "phone_number": "+53 5 2901531",
             "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
+                "Italiana",
+                "Fusi\u00f3n",
+                "Saludable"
+            ],
+            "rating": {
+                "Excelente": 2110,
+                "Muy Bueno": 625,
+                "Normal": 174,
+                "Malo": 62,
+                "Pesimo": 49,
+                "total": 3020
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12658631-Reviews-La_Esquina_de_Cuba-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Esquina de Cuba",
-            "ubication": "Calle Cuba #203 Apt 3,  Esquina Empedrado, La Habana 10100 Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6897510-Reviews-Otramaneralahabana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Otramaneralahabana",
+            "ubication": "Calle. 35 # 1810, La Habana 220150 Cuba",
+            "phone_number": "+53 7 2038315",
             "food_type": [
                 "Caribe\u00f1a",
                 "Internacional",
+                "Europea",
+                "Espa\u00f1ola",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 210,
+                "Muy Bueno": 34,
+                "Normal": 12,
+                "Malo": 3,
+                "Pesimo": 2,
+                "total": 261
+            }
+        },
+        {
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d23919406-Reviews-Chachacha-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Chachach\u00e1",
+            "ubication": "Monserrate #159 E/ Tejadillo Y Chac\u00f3n Habana Vieja, La Habana 10100 Cuba",
+            "phone_number": "+53 7 8672450",
+            "food_type": [
+                "Internacional",
+                "Fusi\u00f3n",
+                "Cubana"
+            ],
+            "rating": {
+                "Excelente": 189,
+                "Muy Bueno": 31,
+                "Normal": 7,
+                "Malo": 6,
+                "Pesimo": 9,
+                "total": 242
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d20172909-Reviews-Ricardon-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Ricardon",
             "ubication": "Industria 352 Esquina San Rafael, La Habana Cuba",
+            "phone_number": "+53 7 8660396",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Mediterr\u00e1nea",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 283,
+                "Muy Bueno": 6,
+                "Normal": 10,
+                "Malo": 5,
+                "Pesimo": 5,
+                "total": 309
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6753980-Reviews-Restaurante_Santy_Pescador-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Santy Pescador",
-            "ubication": "240A E/ 3raC y Rio, La Habana Cuba",
-            "food_type": [
-                "Japonesa",
-                "Caribe\u00f1a",
-                "Marisco",
-                "Sushi",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d23919406-Reviews-Chachacha-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Chachach\u00e1",
-            "ubication": "Monserrate #159 E/ Tejadillo Y Chac\u00f3n Habana Vieja, La Habana 10100 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24934247-Reviews-Sibarita_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sibarita Habana",
-            "ubication": "Oreilly 528 Next to Harrys Brother Store, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Internacional",
-                "Mediterr\u00e1nea",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d7747065-Reviews-El_Dandy-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Dandy",
-            "ubication": "Calle Teniente Rey 401 Plaza de Cristo Old Havana, La Habana Cuba",
-            "food_type": [
-                "Latina",
-                "Bar",
-                "Caf\u00e9",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13322786-Reviews-Marea-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Marea",
-            "ubication": "5TA Ave Suite 25804, La Habana 10400 Cuba",
-            "food_type": [
-                "Bar",
-                "Marisco",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3954116-Reviews-Porto_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Porto Habana",
-            "ubication": "calle E No 158B piso 11 entre calzada y 9na Vedado , La Habana , cuba Piso 11B Vedado, La Habana 10400 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d942067-Reviews-La_Bodeguita_del_Medio-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Bodeguita del Medio",
-            "ubication": "Empedrado, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6561048-Reviews-Venami-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Venami",
-            "ubication": "Montserrate 435 Between Teniente Rey and Lamparilla, La Habana 10100 Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d10147877-Reviews-D_Next_Bar_Cafeteria-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "D'Next Bar Cafeteria",
+            "ubication": "Calle Teniente Rey #512 e Monserrate y Bernaza. Habana Vieja, La Habana 10100 Cuba",
+            "phone_number": "+53 7 8605519",
             "food_type": [
                 "Italiana",
-                "Pizza",
-                "Mediterr\u00e1nea",
-                "Europea"
-            ]
+                "Pizza"
+            ],
+            "rating": {
+                "Excelente": 565,
+                "Muy Bueno": 133,
+                "Normal": 28,
+                "Malo": 12,
+                "Pesimo": 17,
+                "total": 755
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12580283-Reviews-Elizalde_Bar_Restaurante-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Elizalde Bar-Restaurante",
-            "ubication": "Empedrado 521 Monserrate y Villegas, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d16701931-Reviews-Restaurante_Antojos-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Restaurante Antojos",
+            "ubication": "Callej\u00f3n Espada e/ Cuarteles y Chac\u00f3n, La Habana Cuba",
+            "phone_number": "+53 5 2824907",
             "food_type": [
                 "Caribe\u00f1a",
-                "Cubana"
-            ]
+                "Latina",
+                "Cubana",
+                "Centroamericana"
+            ],
+            "rating": {
+                "Excelente": 292,
+                "Muy Bueno": 36,
+                "Normal": 14,
+                "Malo": 9,
+                "Pesimo": 23,
+                "total": 374
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2042638-Reviews-San_Cristobal_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "San Cristobal Paladar",
-            "ubication": "San Rafael No 469 E/ Lealtad y Campanario, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13402467-Reviews-Buenaventura-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Buenaventura",
+            "ubication": "Calle 43 #10206 e/ 102 y 104 Marianao, La Habana Cuba",
+            "phone_number": "+53 5 2759265",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Marisco",
-                "Espa\u00f1ola",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 212,
+                "Muy Bueno": 24,
+                "Normal": 6,
+                "Malo": 1,
+                "Pesimo": 5,
+                "total": 248
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d26339399-Reviews-La_Carreta-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "La Carreta",
             "ubication": "Calle 21 esq K Vedado 4jq7+vrg, La Habana 10400 Cuba",
+            "phone_number": "+53 5 0990383",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
                 "Internacional",
                 "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 181,
+                "Muy Bueno": 7,
+                "Normal": 3,
+                "Malo": 4,
+                "Pesimo": 6,
+                "total": 201
+            }
         },
         {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2482048-Reviews-La_Carboncita_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Carboncita Paladar",
-            "ubication": "Avenida 3ra #3804 E/ 38 y 40, La Habana 11300 Cuba",
-            "food_type": [
-                "Italiana",
-                "Pizza",
-                "Internacional"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3954116-Reviews-Porto_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Porto Habana",
-            "ubication": "calle E No 158B piso 11 entre calzada y 9na Vedado , La Habana , cuba Piso 11B Vedado, La Habana 10400 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2482048-Reviews-La_Carboncita_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Carboncita Paladar",
-            "ubication": "Avenida 3ra #3804 E/ 38 y 40, La Habana 11300 Cuba",
-            "food_type": [
-                "Italiana",
-                "Pizza",
-                "Internacional"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12658631-Reviews-La_Esquina_de_Cuba-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Esquina de Cuba",
-            "ubication": "Calle Cuba #203 Apt 3,  Esquina Empedrado, La Habana 10100 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Internacional",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d5958089-Reviews-El_Cocinero-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Cocinero",
-            "ubication": "Calle 26, Vedado Between Calle 11 and 13, La Habana Cuba",
+            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2182294-Reviews-Dona_Eutimia-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+            "title": "Do\u00f1a Eutimia",
+            "ubication": "Callejon del Chorro # 60-C Plaza de la Catedral, La Habana Cuba",
+            "phone_number": "+53 5 3284713",
             "food_type": [
                 "Caribe\u00f1a",
                 "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d17378791-Reviews-Sensacioones_Restaurant-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sensacioones Restaurant",
-            "ubication": "Calle 70 #902 e/ 9na y 11, Playa, La Habana 10600 Cuba",
-            "food_type": [
-                "Internacional",
-                "Mediterr\u00e1nea"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d13486662-Reviews-Casa_Mia_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Casa Mia Paladar",
-            "ubication": "Calle 1ra #103, entre Calle C y Calle D, La Habana, Cuba 1er piso, La Habana 10400 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Internacional",
-                "Fusi\u00f3n",
                 "Saludable",
-                "Cubana"
-            ]
+                "Cubana",
+                "Centroamericana"
+            ],
+            "rating": {
+                "Excelente": 3095,
+                "Muy Bueno": 1118,
+                "Normal": 290,
+                "Malo": 73,
+                "Pesimo": 79,
+                "total": 4655
+            }
         },
         {
             "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6168120-Reviews-Habana_61-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
             "title": "Habana 61",
             "ubication": "Calle Habana No. 61 Between Cuarteles and Pe\u00f1a Pobre Streets, La Habana 10100 Cuba",
+            "phone_number": "+53 7 8016433",
             "food_type": [
                 "Marisco",
                 "Internacional",
                 "Saludable",
                 "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d14150849-Reviews-Dona_Alicia-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Do\u00f1a Alicia",
-            "ubication": "Calle Reina Esquina Belascoa\u00edn, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d16701931-Reviews-Restaurante_Antojos-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Antojos",
-            "ubication": "Callej\u00f3n Espada e/ Cuarteles y Chac\u00f3n, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d11871944-Reviews-Restaurant_Van_Van-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurant Van Van",
-            "ubication": "58 San Juan de Dios e/ Habana y Compostela, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d1151869-Reviews-Paladar_Vistamar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Paladar Vistamar",
-            "ubication": "Avenida 1ra No. 2206 e/ 22 y 24 Miramar, Playa, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24066255-Reviews-Brasserie_255-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Brasserie 255",
-            "ubication": "Juan Delgado 255, La Habana 10500 Cuba",
-            "food_type": [
-                "Francesa",
-                "Caribe\u00f1a",
-                "Latina",
-                "Internacional",
-                "Europea",
-                "Saludable",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d6561048-Reviews-Venami-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Venami",
-            "ubication": "Montserrate 435 Between Teniente Rey and Lamparilla, La Habana 10100 Cuba",
-            "food_type": [
-                "Italiana",
-                "Pizza",
-                "Mediterr\u00e1nea",
-                "Europea"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2042638-Reviews-San_Cristobal_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "San Cristobal Paladar",
-            "ubication": "San Rafael No 469 E/ Lealtad y Campanario, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Marisco",
-                "Espa\u00f1ola",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d942067-Reviews-La_Bodeguita_del_Medio-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Bodeguita del Medio",
-            "ubication": "Empedrado, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d16701931-Reviews-Restaurante_Antojos-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Restaurante Antojos",
-            "ubication": "Callej\u00f3n Espada e/ Cuarteles y Chac\u00f3n, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2482048-Reviews-La_Carboncita_Paladar-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "La Carboncita Paladar",
-            "ubication": "Avenida 3ra #3804 E/ 38 y 40, La Habana 11300 Cuba",
-            "food_type": [
-                "Italiana",
-                "Pizza",
-                "Internacional"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d3954116-Reviews-Porto_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Porto Habana",
-            "ubication": "calle E No 158B piso 11 entre calzada y 9na Vedado , La Habana , cuba Piso 11B Vedado, La Habana 10400 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d17378791-Reviews-Sensacioones_Restaurant-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sensacioones Restaurant",
-            "ubication": "Calle 70 #902 e/ 9na y 11, Playa, La Habana 10600 Cuba",
-            "food_type": [
-                "Internacional",
-                "Mediterr\u00e1nea"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d12152688-Reviews-Mojito_Mojito-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Mojito-Mojito",
-            "ubication": "Muralla # 166 Entre Cuba Y San Ignacio, La Habana 10100 Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d23919406-Reviews-Chachacha-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Chachach\u00e1",
-            "ubication": "Monserrate #159 E/ Tejadillo Y Chac\u00f3n Habana Vieja, La Habana 10100 Cuba",
-            "food_type": [
-                "Internacional",
-                "Fusi\u00f3n",
-                "Cubana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d24934247-Reviews-Sibarita_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "Sibarita Habana",
-            "ubication": "Oreilly 528 Next to Harrys Brother Store, La Habana Cuba",
-            "food_type": [
-                "Caribe\u00f1a",
-                "Latina",
-                "Bar",
-                "Internacional",
-                "Mediterr\u00e1nea",
-                "Cubana",
-                "Centroamericana"
-            ]
-        },
-        {
-            "scraped_link": "https://www.tripadvisor.es/Restaurant_Review-g147271-d7747065-Reviews-El_Dandy-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
-            "title": "El Dandy",
-            "ubication": "Calle Teniente Rey 401 Plaza de Cristo Old Havana, La Habana Cuba",
-            "food_type": [
-                "Latina",
-                "Bar",
-                "Caf\u00e9",
-                "Cubana"
-            ]
+            ],
+            "rating": {
+                "Excelente": 1753,
+                "Muy Bueno": 503,
+                "Normal": 73,
+                "Malo": 15,
+                "Pesimo": 9,
+                "total": 2353
+            }
         }
     ]
 }

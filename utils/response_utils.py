@@ -1,7 +1,9 @@
 from requests import Response
+from bs4 import BeautifulSoup, Tag
 import requests
 import random
 import json
+import os
 
 class HavanaRestaurantScraper:
     """
@@ -56,6 +58,7 @@ class HavanaRestaurantScraper:
             'Sec-Fetch-User': '?1',
         }
 
+        self.file = "./restaurants.json"
     def make_session(self, url: str) -> Response:
         """
         Funcion para crear la session y hacer 
@@ -82,7 +85,56 @@ class HavanaRestaurantScraper:
         Exportar a el JSON final con todos los datos ya extraidos
         """
         try:
-            with open("./restaurants.json", "w") as file:
+            if os.path.exists(self.file):
+                os.remove(self.file)
+            with open(self.file, "w") as file:
                 file.write(json.dumps({"data": data}, indent=4))
         except Exception as e:
             print(f"Error al intentar guardar el archivo JSON -> {e}")
+            
+class Data:
+    def __init__(self, soup: BeautifulSoup) -> None:
+        self.soup = soup   
+    
+    def get_title(self) -> str:
+        return self.soup.find("h1", attrs={"class": "biGQs _P egaXP rRtyp"})
+
+    def get_ubication(self) -> Tag | str:
+        return self.soup.find("div", attrs={"class": "biGQs _P pZUbB hmDzD"})
+
+    def get_food_type(self) -> Tag | str| list[str]:
+        food_type = self.soup.find("div", attrs={"class": "biGQs _P pZUbB alXOW oCpZu GzNcM nvOhm UTQMg ZTpaU W hmDzD"})            
+                                
+        if food_type.text.split(", ")[0] in HavanaRestaurantScraper().foods:
+            food_type = food_type.text.split(", ")
+        else:
+            food_type = self.soup.find_all("div", attrs={"class": "biGQs _P pZUbB alXOW oCpZu GzNcM nvOhm UTQMg ZTpaU W hmDzD"})[1].text.split(", ")
+        
+        return food_type
+    
+    def get_phone_number(self) -> str:
+        phone_span = self.soup.find_all("span", attrs={"class": "bTeln"})
+        phone_href = phone_span[6].find_next("a", attrs={"class": "BMQDV _F Gv wSSLS SwZTJ"})
+        
+        return phone_href.find_next("span", attrs={"class": "biGQs _P pZUbB hmDzD"})
+    
+    def get_ratings(self) -> dict:
+        rating = self.soup.find_all("div", attrs={"class": "biGQs _P fiohW biKBZ osNWb"})
+        
+        
+        rating_data = {
+            "Excelente": int(rating[0].text),
+            "Muy Bueno": int(rating[1].text),
+            "Normal": int(rating[2].text),
+            "Malo": int(rating[3].text),
+            "Pesimo": int(rating[4].text),
+            "total": 0
+        }
+        
+        total = 0
+        for keys in rating_data.keys():
+            total += int(rating_data[keys])
+        
+        rating_data["total"] = total
+        
+        return rating_data

@@ -1,4 +1,4 @@
-from utils.response_utils import HavanaRestaurantScraper
+from utils.response_utils import HavanaRestaurantScraper, Data
 from requests.exceptions import RequestException
 from bs4 import BeautifulSoup
 
@@ -17,38 +17,37 @@ def main():
         tag_a = soup.find_all("a", attrs={"class": "BMQDV _F Gv wSSLS SwZTJ FGwzt ukgoS"})
 
         tags = []
-        for tag in list(set(tag_a)):
+        # Usamos set para evitar elementos repetidos, solo tiene un inconveniente
+        # y es que pone los resultados en la lista de forma desordenada pero
+        # en este caso, no es algo que importe mucho
+        for tag in tag_a:
             if tag["href"] not in utils.excluded:
                 tags.append(str(utils.url + tag["href"]))
         
         restaurants = []
-        for scraped_tag in tags:
+        for scraped_tag in set(tags):
             try:
                 url_tag_response = utils.make_session(scraped_tag)
                 url_tag_soup = BeautifulSoup(url_tag_response.text, "html.parser")
                 
-                print(f"Checking {scraped_tag}")
+                data = Data(url_tag_soup)
                 
-                restaurant_title = url_tag_soup.find("h1", attrs={"class": "biGQs _P egaXP rRtyp"})
-                restaurant_ubication = url_tag_soup.find("div", attrs={"class": "biGQs _P pZUbB hmDzD"})
-                food_type = url_tag_soup.find("div", attrs={"class": "biGQs _P pZUbB alXOW oCpZu GzNcM nvOhm UTQMg ZTpaU W hmDzD"})            
-                            
-                if food_type.text.split(", ")[0] in utils.foods:
-                    food_type = food_type.text.split(", ")
-                else:
-                    food_type = url_tag_soup.find_all("div", attrs={"class": "biGQs _P pZUbB alXOW oCpZu GzNcM nvOhm UTQMg ZTpaU W hmDzD"})[1].text.split(", ")
+                print(f"Checking {scraped_tag}")
                 
                 restaurants.append({
                     "scraped_link": scraped_tag,
-                    "title": restaurant_title.text.strip() if restaurant_title else None,
-                    "ubication": restaurant_ubication.text.strip() if restaurant_ubication else None,
-                    "food_type": food_type,
+                    "title": data.get_title().text.strip() if data.get_title() else None,
+                    "ubication": data.get_ubication().text.strip() if data.get_ubication() else None,
+                    "phone_number": data.get_phone_number().text.strip() if data.get_phone_number() else None,
+                    "food_type": data.get_food_type(),
+                    "rating": data.get_ratings()
                 })
+                
             except Exception as e:
                 print(f"Error al obtener información de {scraped_tag}: {e}")
     except RequestException as e:
         print(f"Algo ocurrio cuando se hacia el requests -> {e}")
-    
+
     utils.export_json_file(restaurants)
-    
+
 main()
